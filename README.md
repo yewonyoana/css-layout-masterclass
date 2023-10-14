@@ -11,9 +11,9 @@ References
 
 Results
 
-- Project 01: ![Alt text](image.png)
-- Project 02: ![Alt text](image-1.png)
-- Project 03: ![Alt text](image-2.png)
+- Project 01: ![Alt text] (/results/01.png)
+- Project 02:
+- Project 03:
 - Project 04:
 - Project 05:
 - Project 06:
