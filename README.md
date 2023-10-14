@@ -11,7 +11,7 @@ References
 
 Results
 
-- Project 01: ![Alt text] (/results/01.png)
+- Project 01: ![Project 1](https://github.com/yewonyoana/css-layout-masterclass/blob/5d14d6c1690cb7e3e4a580d81245485624255d83/results/01.png)
 - Project 02:
 - Project 03:
 - Project 04:
