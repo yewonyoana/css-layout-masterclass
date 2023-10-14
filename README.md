@@ -1,6 +1,6 @@
 # CSS Masterclass Layout
 
-References
+**References**
 
 - Project 01: https://dribbble.com/shots/19526780-Education-Courses-App
 - Project 02: https://dribbble.com/shots/14115821-High-End-Fashion-Store-iOS-App-Design
@@ -9,7 +9,7 @@ References
 - Project 05: https://gowhastings.com/projects
 - Project 06:
 
-Results
+**Results**
 
 - Project 01: ![Project 1](https://github.com/yewonyoana/css-layout-masterclass/blob/5d14d6c1690cb7e3e4a580d81245485624255d83/results/01.png)
 - Project 02:
