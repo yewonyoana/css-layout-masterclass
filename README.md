@@ -9,7 +9,7 @@
 - Project 05: https://gowhastings.com/projects
 - Project 06: https://work.repponen.com/UP-Memory-Tower
 - Project 07: https://raw.githubusercontent.com/nomadcoders/css-layout-masterclass/master/projects/07.png
-- Project 08:
+- Project 08: https://raw.githubusercontent.com/nomadcoders/css-layout-masterclass/dcae0a4590aec9cca03cd651194e1c76c46e6890/projects/07.png
 - Project 09:
 - Project 10:
 
