@@ -23,5 +23,5 @@
 - Project 06: ![Project 6](https://github.com/yewonyoana/css-layout-masterclass/blob/fce4bc158c9c2fe29b37a21dce9bc4a7ff6ecee4/results/06.png)
 - Project 07: ![Project 7](https://github.com/yewonyoana/css-layout-masterclass/blob/3287746bb3a952930b969ab0abe59fe45fd467d3/results/07.png)
 - Project 08: ![Project 8](https://github.com/yewonyoana/css-layout-masterclass/blob/46cb047835b571238e345941850a0f155730a242/results/08.png)
-- Project 09: ![Project 9]()
-- Project 10: ![Project 10]()
+- Project 09: ![Project 9](https://github.com/yewonyoana/css-layout-masterclass/blob/fa9c9f1fac0eca18cbbeea32b6333672bdde1d1f/results/09.png)
+- Project 10: ![Project 10](https://github.com/yewonyoana/css-layout-masterclass/blob/fa9c9f1fac0eca18cbbeea32b6333672bdde1d1f/results/10.png)
