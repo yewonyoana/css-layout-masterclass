@@ -10,8 +10,8 @@
 - Project 06: https://work.repponen.com/UP-Memory-Tower
 - Project 07: https://raw.githubusercontent.com/nomadcoders/css-layout-masterclass/master/projects/07.png
 - Project 08: https://raw.githubusercontent.com/nomadcoders/css-layout-masterclass/dcae0a4590aec9cca03cd651194e1c76c46e6890/projects/07.png
-- Project 09:
-- Project 10:
+- Project 09: https://www.swissted.com/cdn/shop/products/pixies.jpeg?v=1329180038
+- Project 10: https://www.swissted.com/cdn/shop/products/voidoids_1024x1024.jpeg?v=1329180153
 
 **Results**
 
